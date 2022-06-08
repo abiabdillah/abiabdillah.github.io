@@ -1,0 +1,8 @@
+hr {
+	width: 350px;
+	border-top: 2px solid #999;
+}
+
+.jumbotron-fluid {
+	margin-top: -100px;
+}
